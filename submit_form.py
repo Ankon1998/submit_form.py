@@ -9,11 +9,9 @@ def submit_google_form():
     form_data = {
         "entry.1339829787": "Ankon", 
         "entry.2052905156": "Manager",
-        "entry.432399424": "1)Take backup of Database
-        2)Assign Products 
-        3)Active products
-        4)Fix Products Issue from Messenger group
-        "
+        "entry.432399424": """1)Take backup of Database
+2) Assign Products
+3) Active Products"""
     }
     
     try:
